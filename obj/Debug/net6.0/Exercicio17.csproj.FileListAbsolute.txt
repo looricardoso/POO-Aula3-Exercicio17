@@ -1,0 +1,15 @@
+C:\Repositórios Faculdade\Exercicio17\bin\Debug\net6.0\Exercicio17.exe
+C:\Repositórios Faculdade\Exercicio17\bin\Debug\net6.0\Exercicio17.deps.json
+C:\Repositórios Faculdade\Exercicio17\bin\Debug\net6.0\Exercicio17.runtimeconfig.json
+C:\Repositórios Faculdade\Exercicio17\bin\Debug\net6.0\Exercicio17.dll
+C:\Repositórios Faculdade\Exercicio17\bin\Debug\net6.0\ref\Exercicio17.dll
+C:\Repositórios Faculdade\Exercicio17\bin\Debug\net6.0\Exercicio17.pdb
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\Exercicio17.csproj.AssemblyReference.cache
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\Exercicio17.AssemblyInfoInputs.cache
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\Exercicio17.AssemblyInfo.cs
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\Exercicio17.csproj.CoreCompileInputs.cache
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\Exercicio17.dll
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\ref\Exercicio17.dll
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\Exercicio17.pdb
+C:\Repositórios Faculdade\Exercicio17\obj\Debug\net6.0\Exercicio17.genruntimeconfig.cache
